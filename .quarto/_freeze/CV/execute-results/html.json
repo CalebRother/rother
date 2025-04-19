@@ -1,0 +1,17 @@
+{
+  "hash": "ba41e16be33af6ce550870917c151ddc",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"CV\"\nformat: html\neditor: visual\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](rother_CV.pdf)\n:::\n:::\n\n\n\n\n<iframe src=\"\"C:\\Users\\croth\\OneDrive\\Documents\\calebrother\\rother_CV.pdf\"\" width=\"100%\" height=\"600px\"></iframe>\n",
+    "supporting": [
+      "cv_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

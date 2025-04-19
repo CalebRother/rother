@@ -1,0 +1,80 @@
+---
+title: "Campus Involvement and Improvement"
+format: html
+editor: visual
+---
+
+**Chancellor’s Ambassador**
+
+As a Chancellor's Ambassador, it is my responsibility to engage with administration, facilities, staff, and students alike to create a campus experience that is collaborative and fulfilling for everyone. I achieve through developing connections with students and staff to be a waypoint for any concerns or ideas. Listed below are descriptions of organizations and projects I am part of to be involved on and improve campus:
+
+**Outdoor seating**
+
+The state of the wooden outdoor seating is poor currently. These picnic benches have been around for many years, but have not been properly maintained. I plan to bring students together to help me sand, repaint, and refinish the wooden picnic tables so our outdoor seating is once again maintained.
+
+**“I See You”**
+
+I am working with UNK Grounds to coordinate a time to help finish the “I See You” art exhibit in front of the Union by putting rock around the statues. We will also be laying sod, and will need student help to make quick work of this project.
+
+**Men’s and Copeland Exterior**
+
+Men’s Hall and Copeland Hall are a core part of UNK’s identity. Both often shown to prospective students in tours, and Men’s is home to the UNK Honors Program. However, the exterior of the buildings have grown grimy and ugly due to neglect, and requires a good cleaning. I plan to work with Tanner Cooper and HAO to pressure wash the exterior of Men’s Hall, and later work on cleaning Copeland.
+
+**Otto Olsen Development**
+
+I am currently proposing and acquiring funding for a development of the Northeast corner of the old Otto Olsen lot on campus. Below is the proposal with renderings:
+
+```{=html}
+<style>
+.full-width-pdf {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  width: 100vw;
+  max-width: 100vw;
+}
+</style>
+```
+
+<div>
+
+<iframe src="ShadePark.pdf #toolbar=0&amp;navpanes=0" width="100%" height="900px" style="border: none;">
+
+</iframe>
+
+</div>
+
+```{=html}
+<style>
+  /* General body styling */
+  body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f0f4f8;  /* Light greyish background */
+  }
+
+
+  /* Navigation bar styling */
+  .navbar {
+    background-color: #673ab7; /* Use a nice blue color or any color that complements your theme */
+    color: white;
+    padding: 15px;
+    border-bottom: 2px solid #333; /* Optional: a border at the bottom for some definition */
+  }
+
+  /* Navigation bar links */
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.1em;
+    margin-right: 15px;
+  }
+
+  .navbar a:hover {
+    color: #e1e1e1;  /* A subtle hover effect */
+  }
+</style>
+```
