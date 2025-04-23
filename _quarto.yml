@@ -1,6 +1,8 @@
 
 project:
   type: website
+  output-dir: docs  # ← this is important
+
 
 website:
   title: 'Caleb Rother'
