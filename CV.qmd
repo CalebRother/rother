@@ -4,6 +4,7 @@ format: html
 editor: visual
 ---
 
+```{=html}
 <style>
 .full-width-pdf {
   position: relative;
@@ -15,16 +16,17 @@ editor: visual
   max-width: 100vw;
 }
 </style>
+```
 
-<div class="full-width-pdf">
-  <iframe 
-    src="CV.pdf #toolbar=0&navpanes=0" 
+::: full-width-pdf
+<iframe 
+    src="pdfs/CV.pdf #toolbar=0&navpanes=0" 
     width="100%" 
     height="900px" 
-    style="border: none;">
-  </iframe>
-</div>
+    style="border: none;"> </iframe>
+:::
 
+```{=html}
 <style>
   /* General body styling */
   body {
@@ -55,3 +57,4 @@ editor: visual
     color: #e1e1e1;  /* A subtle hover effect */
   }
 </style>
+```

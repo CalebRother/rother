@@ -32,12 +32,11 @@ Overall, my research is focused on how the T7SS, a system that pumps toxins out 
 
 <div>
 
-<iframe src="ResearchPaper.pdf #toolbar=0&amp;navpanes=0" width="100%" height="900px" style="border: none;">
+<iframe src="pdfs/Goldwater2025.pdf #toolbar=0&amp;navpanes=0" width="100%" height="900px" style="border: none;">
 
 </iframe>
 
 </div>
-
 
 **Cruikshank et. al, 2024**
 
@@ -47,12 +46,13 @@ Overall, my research is focused on how the T7SS, a system that pumps toxins out 
 
 <div>
 
-`<iframe src="`{=html}Cruikshank`.pdf #toolbar=0&amp;navpanes=0" width="100%" height="900px" style="border: none;">`{=html}
+`<iframe src="`{=html}pdfs/AIMSPaper`.pdf #toolbar=0&amp;navpanes=0" width="100%" height="900px" style="border: none;">`{=html}
 
 </iframe>
 
 </div>
 
+```{=html}
 <style>
   /* General body styling */
   body {
@@ -83,6 +83,4 @@ Overall, my research is focused on how the T7SS, a system that pumps toxins out 
     color: #e1e1e1;  /* A subtle hover effect */
   }
 </style>
-
-
-
+```

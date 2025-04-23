@@ -19,3 +19,5 @@ format:
     theme: cosmo # or: flatly, minty, journal, litera, sketchy, darkly, etc
     css: styles.css
 
+resources:
+  - pdfs/**
